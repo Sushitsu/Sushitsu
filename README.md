@@ -22,7 +22,7 @@
 
 | Tool | Logo |
 |------|------|
-| [Arduino](https://www.arduino.cc/) | <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" alt="arduino" width="40" height="40"/> |
+| [Arduino](https://www.arduino.cc/) | <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> |
 | [Bash](https://www.gnu.org/software/bash/) | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> |
 | [Bootstrap](https://getbootstrap.com) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> |
 | [C](https://www.cprogramming.com/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> |
