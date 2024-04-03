@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Langages et Outils :</h3>
 
 | Tool | Logo |
 |------|------|
@@ -39,7 +39,6 @@
 | <span style="text-decoration: none">[`Python`](https://www.python.org)</span> | <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> |
 | <span style="text-decoration: none">[`Scikit-Learn`](https://scikit-learn.org/)</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> |
 | <span style="text-decoration: none">[`SQLite`](https://www.sqlite.org/)</span> | <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> |
-
 
 <h3 align="left">Support :</h3>
 <p>
