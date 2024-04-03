@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **lferrand@guardiaschool.fr**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://codepen.io/sushitsu" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sushitsu" height="30" width="40"/>
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="[https://cdn.worldvectorlogo.com/logos/arduino-1.svg](https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim)" alt="arduino" width="40" height="40"/> 
@@ -77,7 +77,7 @@
   </a> 
 </p>
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support :</h3>
 <p>
   <a href="https://www.buymeacoffee.com/sushitsu"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushitsu"/>
