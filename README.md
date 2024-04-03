@@ -20,25 +20,25 @@
 
 | Tool | Logo |
 |------|------|
-| <span style="text-decoration: none">[`Arduino`](https://www.arduino.cc/) | <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Bash`](https://www.gnu.org/software/bash/) | <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Bootstrap`](https://getbootstrap.com) | <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> |
-| <span style="text-decoration: none">[`C`](https://www.cprogramming.com/) | <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> |
-| <span style="text-decoration: none">[`CSS`](https://www.w3schools.com/css/) | <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Docker`](https://www.docker.com/) | <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Flask`](https://flask.palletsprojects.com/) | <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Git`](https://git-scm.com/) | <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> |
-| <span style="text-decoration: none">[`HTML5`](https://www.w3.org/html/) | <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> |
-| <span style="text-decoration: none">[`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Linux`](https://www.linux.org/) | <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> |
-| <span style="text-decoration: none">[`MariaDB`](https://mariadb.org/) | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Materialize`](https://materializecss.com/) | <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> |
-| <span style="text-decoration: none">[`MongoDB`](https://www.mongodb.com/) | <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> |
-| <span style="text-decoration: none">[`MySQL`](https://www.mysql.com/) | <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> |
-| <span style="text-decoration: none">[`PHP`](https://www.php.net) | <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Python`](https://www.python.org) | <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> |
-| <span style="text-decoration: none">[`Scikit-Learn`](https://scikit-learn.org/) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> |
-| <span style="text-decoration: none">[`SQLite`](https://www.sqlite.org/) | <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Arduino`](https://www.arduino.cc/)</span> | <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Bash`](https://www.gnu.org/software/bash/)</span> | <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Bootstrap`](https://getbootstrap.com)</span> | <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> |
+| <span style="text-decoration: none">[`C`](https://www.cprogramming.com/)</span> | <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> |
+| <span style="text-decoration: none">[`CSS`](https://www.w3schools.com/css/)</span> | <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Docker`](https://www.docker.com/)</span> | <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Flask`](https://flask.palletsprojects.com/)</span> | <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Git`](https://git-scm.com/)</span> | <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> |
+| <span style="text-decoration: none">[`HTML5`](https://www.w3.org/html/)</span> | <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> |
+| <span style="text-decoration: none">[`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript)</span> | <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Linux`](https://www.linux.org/)</span> | <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> |
+| <span style="text-decoration: none">[`MariaDB`](https://mariadb.org/)</span> | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Materialize`](https://materializecss.com/)</span> | <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> |
+| <span style="text-decoration: none">[`MongoDB`](https://www.mongodb.com/)</span> | <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> |
+| <span style="text-decoration: none">[`MySQL`](https://www.mysql.com/)</span> | <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> |
+| <span style="text-decoration: none">[`PHP`](https://www.php.net)</span> | <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Python`](https://www.python.org)</span> | <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> |
+| <span style="text-decoration: none">[`Scikit-Learn`](https://scikit-learn.org/)</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> |
+| <span style="text-decoration: none">[`SQLite`](https://www.sqlite.org/)</span> | <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> |
 
 
 <h3 align="left">Support :</h3>
