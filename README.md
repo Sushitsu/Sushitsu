@@ -40,7 +40,10 @@
 | <span style="text-decoration: none">[`Scikit-Learn`](https://scikit-learn.org/)</span> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> |
 | <span style="text-decoration: none">[`SQLite`](https://www.sqlite.org/)</span> | <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> |
 
-<h3 align="left">Support :</h3>
+<details>
+  <summary>
+    <h3 align="left">Support :</h3>
+  </summary>
 <p>
   <a href="https://www.buymeacoffee.com/sushitsu"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sushitsu"/>
@@ -52,3 +55,4 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushitsu&show_icons=true&locale=en&layout=compact" alt="sushitsu"/>
 </p>
+</details>
