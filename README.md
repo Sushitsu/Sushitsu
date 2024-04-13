@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<h3 align="center">Langages et Outils :</h3
+<h3 align="left">Langages et Outils :</h3
 
 | **Langage de Programmation** | **Logo** |
 |------|------|
