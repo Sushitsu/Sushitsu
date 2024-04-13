@@ -27,18 +27,21 @@
 | [`Python`](https://www.python.org) | <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> |
 
 | **Framework/Bibliothèque** | **Logo** |
+|------|------|
 | [`Bootstrap`](https://getbootstrap.com) | <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> |
 | [`Flask`](https://flask.palletsprojects.com/) | <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> |
 | [`Materialize`](https://materializecss.com/) | <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> |
 | [`Scikit-Learn`](https://scikit-learn.org/) | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> |
 
 | **Base de Données** | **Logo** |
+|------|------|
 | [`MariaDB`](https://mariadb.org/) | <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> |
 | [`MongoDB`](https://www.mongodb.com/) | <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> |
 | [`MySQL`](https://www.mysql.com/) | <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> |
 | [`SQLite`](https://www.sqlite.org/) | <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> |
 
 | **Outil de Développement** | **Logo** |
+|------|------|
 | [`Arduino`](https://www.arduino.cc/) | <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> |
 | [`Bash`](https://www.gnu.org/software/bash/) | <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> |
 | [`Docker`](https://www.docker.com/) | <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> |
