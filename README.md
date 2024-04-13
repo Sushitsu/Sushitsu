@@ -18,7 +18,7 @@
 
 <h3 align="left">Langages et Outils :</h3>
 
-| **Frameworks et Bibliothèques** | |
+
 |------|------|
 | **Langage de Programmation** | **Logo** |
 | [`C`](https://www.cprogramming.com/) | <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> |
