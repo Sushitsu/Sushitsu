@@ -20,7 +20,6 @@
 
 | **Langage de Programmation** | **Logo** |
 |------|------|
-| **Langage de Programmation** | |
 | [`C`](https://www.cprogramming.com/) | <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> |
 | [`HTML5`](https://www.w3.org/html/) | <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> |
 | [`JavaScript`](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> |
