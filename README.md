@@ -37,10 +37,6 @@
 <br>
 
 <h2 align="left">💻 Tech Stack</h2>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
 
 <h3 align="left">Web Development</h3>
 <p>
