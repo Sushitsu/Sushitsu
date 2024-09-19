@@ -37,10 +37,6 @@
 <br>
 
 <h2 align="left">💻 Tech Stack</h2>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg" alt="HTML5" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg" alt="CSS3" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg" alt="JavaScript" />
-
 
 <h3 align="left">Web Development</h3>
 <p>
@@ -116,7 +112,6 @@
   ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
   ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 </p>
-
 
 <hr>
 <br>
